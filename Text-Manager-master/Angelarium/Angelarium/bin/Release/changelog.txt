@@ -1,0 +1,16 @@
+Text Program Changelog
+==================================================
+Version 1.0.0.3 7/30/2015
+ - Reduce priviledges
+ - No error empty boxes
+ - Empty Outbox
+
+Version 1.0.0.2 7/30/2015
+ - Load Contacts after adding
+ - On Error Resume
+
+Version 1.0.0.1 7/29/2015
+ - Load config after saving config
+ - Display modem ready at the status bar
+ - Dynamic smsd config
+ - Masking Config Password

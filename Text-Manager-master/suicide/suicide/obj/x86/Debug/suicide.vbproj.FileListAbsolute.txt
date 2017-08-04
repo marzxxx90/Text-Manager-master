@@ -1,0 +1,16 @@
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\obj\x86\Debug\suicide.Resources.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\obj\x86\Debug\suicide.vbproj.GenerateResource.Cache
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\obj\x86\Debug\suicide.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\obj\x86\Debug\suicide.xml
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\obj\x86\Debug\suicide.pdb
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\suicide.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\suicide.pdb
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\suicide\suicide\suicide.xml
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Debug\suicide.Resources.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Debug\suicide.vbproj.GenerateResource.Cache
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Debug\suicide.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Debug\suicide.xml
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Debug\suicide.pdb
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\suicide.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\suicide.pdb
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\suicide.xml

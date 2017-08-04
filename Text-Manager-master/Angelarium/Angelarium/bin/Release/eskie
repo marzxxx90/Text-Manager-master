@@ -1,0 +1,12 @@
+[gammu]
+port = COM6:
+connection = at
+
+[smsd]
+service = sql
+driver = native_mysql
+host = localhost
+database = smsd
+user = root
+password
+LogFile = syslog.txt

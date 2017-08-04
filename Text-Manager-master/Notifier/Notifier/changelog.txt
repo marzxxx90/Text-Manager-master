@@ -1,0 +1,30 @@
+Notifier
+1.0.1.0 9/29/2015 (!)
+ - Add report column, expiry date and auction date
+
+1.0.0.7 9/28/2015
+ - Adding Count on report row
+ - Adding additional dates for date range of the report
+ - Removed Auctioned Items
+ - Include xls format
+
+1.0.0.6 9/9/2015
+ - Include Dependencies
+ - MessageBox before sending
+ - MessageBox after sending
+
+1.0.0.5 9/8/2015
+ - Report added
+
+1.0.0.4 8/25/2015
+ - Legend Dialog box close button
+ - Auto update Inbox
+
+1.0.0.3 8/24/2015
+ - Cannot connect to DB Notice
+
+1.0.0.2 8/22/2015
+ - Fixing Sending Failed
+
+1.0.0.1 8/20/2015
+ - INSTRUCTION MANUAL added

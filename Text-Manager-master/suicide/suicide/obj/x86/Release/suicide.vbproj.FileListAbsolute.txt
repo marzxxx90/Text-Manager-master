@@ -1,0 +1,8 @@
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Release\suicide.Resources.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Release\suicide.vbproj.GenerateResource.Cache
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Release\suicide.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Release\suicide.xml
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\obj\x86\Release\suicide.pdb
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\suicide.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\suicide.pdb
+D:\CaDeAtH\Documents\GitHub\Text-Manager\suicide\suicide\suicide.xml

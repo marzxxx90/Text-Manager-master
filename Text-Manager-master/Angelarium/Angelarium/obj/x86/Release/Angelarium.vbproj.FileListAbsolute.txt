@@ -1,0 +1,88 @@
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\suicide.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\changelog.txt
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\eskie-smsd-inject.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\eskie-smsd-monitor.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\eskie-smsd.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\eskie.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libcurl-4.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libGammu.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libgcrypt-11.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libgpg-error-0.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libgsmsd.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libiconv-2.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libidn-11.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libintl-8.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libmysql.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libnspr4.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libplc4.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libplds4.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libpq.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\libssh2-1.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\nss3.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\nssutil3.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\ssl3.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\zlib1.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\eskie
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\Angelarium.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\Angelarium.pdb
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\Angelarium.xml
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\bin\Release\MySql.Data.dll
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.diagInfo.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.diagMsg.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.diagReply.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmContacts.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmInbox.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmMain.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmOptions.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmSMS.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.Resources.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.vbproj.GenerateResource.Cache
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.xml
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\Angelarium\Angelarium\obj\x86\Release\Angelarium.pdb
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\suicide.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\changelog.txt
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\eskie-smsd-inject.exe
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\eskie-smsd-monitor.exe
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\eskie-smsd.exe
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\eskie.exe
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libcurl-4.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libGammu.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libgcrypt-11.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libgpg-error-0.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libgsmsd.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libiconv-2.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libidn-11.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libintl-8.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libmysql.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libnspr4.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libplc4.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libplds4.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libpq.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\libssh2-1.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\msvcr71.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\nss3.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\nssutil3.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\ssl3.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\zlib1.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\eskie
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\txtmgr.exe
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\txtmgr.pdb
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\txtmgr.xml
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\MySql.Data.dll
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\suicide.pdb
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\bin\Release\suicide.xml
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.vbprojResolveAssemblyReference.cache
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.diagInfo.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.diagMsg.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.diagReply.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmContacts.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmInbox.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmMain.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmOptions.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.frmSMS.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.Resources.resources
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\Angelarium.vbproj.GenerateResource.Cache
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\txtmgr.exe
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\txtmgr.xml
+D:\CaDeAtH\Documents\GitHub\Text-Manager\Angelarium\Angelarium\obj\x86\Release\txtmgr.pdb

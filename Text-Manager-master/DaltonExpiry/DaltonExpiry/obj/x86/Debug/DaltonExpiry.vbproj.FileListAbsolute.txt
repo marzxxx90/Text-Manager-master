@@ -1,0 +1,12 @@
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\bin\Debug\Aerauxel.ini
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\bin\Debug\DaltonExpiry.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\bin\Debug\DaltonExpiry.pdb
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\bin\Debug\DaltonExpiry.xml
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.vbproj.ResolveComReference.cache
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.frmMain.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.frmOptions.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.Resources.resources
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.vbproj.GenerateResource.Cache
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.exe
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.xml
+D:\CaDeAtH\Documents\Visual Studio 2010\Projects\DaltonExpiry\DaltonExpiry\obj\x86\Debug\DaltonExpiry.pdb

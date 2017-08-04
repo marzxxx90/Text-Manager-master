@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DaltonExpiry
+</name>
+</assembly>
+<members>
+<member name="P:DaltonExpiry.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DaltonExpiry.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:DaltonExpiry.My.Resources.Resources.itd_728x90">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:DaltonExpiry.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DaltonExpiry.mod_death.hashMe(System.String)">
+	<summary>
+ Generate HASH Value
+ </summary>
+	<param name="str">String you want to be hash</param>
+	<returns>String</returns>
+	<remarks></remarks>
+</member><member name="M:DaltonExpiry.db_Firebird.dbGetExpiredRange(System.String,System.String)">
+	<summary>
+ Get the Expired Ticket
+ FillData: Expiries
+ </summary>
+	<param name="st">Start Time</param>
+	<param name="et">End Time</param>
+	<remarks>Range</remarks>
+</member><member name="M:DaltonExpiry.mod_extract.ExtractToExcel(System.Data.DataSet,System.String,System.String,DaltonExpiry.mod_extract.SaveFileFormat)">
+	<summary>
+ Extract the Dataset to Excel
+ </summary>
+	<param name="ds">Dataset</param>
+	<param name="fillData">fillData</param>
+	<param name="url">SaveAs url</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
